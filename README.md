@@ -1,3 +1,3 @@
 # pig-game
 
-This is my first Javascript project.
+This is my first basic Javascript project.
