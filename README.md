@@ -2,6 +2,7 @@
 
 **🛠 Project Title: Jenkins CI/CD Pipeline - SonarQube, Docker, GitHub Webhooks on AWS
 **
+![Project thumbnail](https://github.com/mihirkanani/Jenkins-CI-CD-Pipeline---SonarQube-Docker-GitHub-Webhooks-on-AWS/assets/70439380/ace90efc-1ae9-4161-88fd-5ecad85e8ea0)
 📝 Project Steps:
 
 1️⃣ **Code Repository in GitHub:**
