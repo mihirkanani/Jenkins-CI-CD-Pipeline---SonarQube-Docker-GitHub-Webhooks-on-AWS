@@ -27,11 +27,16 @@ Integrating GitHub Webhooks with the Jenkins server for seamless automation trig
 4️⃣ **Code Analysis Nirvana:**
 Connecting SonarQube with Jenkins to perform in-depth code analysis and maintain code quality.
 
+![jenkins3](https://github.com/mihirkanani/Jenkins-CI-CD-Pipeline---SonarQube-Docker-GitHub-Webhooks-on-AWS/assets/70439380/bb99b25f-621d-4e23-852f-b9e8519b279c)
+
 ![sonarcube2](https://github.com/mihirkanani/Jenkins-CI-CD-Pipeline---SonarQube-Docker-GitHub-Webhooks-on-AWS/assets/70439380/19a3bdbb-741b-45e6-bb95-e8886e5a0f97)
 
 
 5️⃣ **Dockerizing the Game:**
 After a successful SonarQube integration, installing Docker desktop on an EC2 instance to containerize the application.
+
+![Docker-Logo](https://github.com/mihirkanani/Jenkins-CI-CD-Pipeline---SonarQube-Docker-GitHub-Webhooks-on-AWS/assets/70439380/5a04ac00-b039-47b0-ba42-f21c5a70b105)
+
 
 6️⃣ **Jenkins + Docker Harmony:**
 Copying Jenkins project files into Docker and crafting a Dockerfile to encapsulate the project.
