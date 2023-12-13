@@ -2,14 +2,21 @@
 
 **🛠 Project Title: Jenkins CI/CD Pipeline - SonarQube, Docker, GitHub Webhooks on AWS
 **
+
 ![Project thumbnail](https://github.com/mihirkanani/Jenkins-CI-CD-Pipeline---SonarQube-Docker-GitHub-Webhooks-on-AWS/assets/70439380/ace90efc-1ae9-4161-88fd-5ecad85e8ea0)
 📝 Project Steps:
 
 1️⃣ **Code Repository in GitHub:**
 Pushing my code repository into GitHub to kickstart the automation process.
 
+
+
 2️⃣ **EC2 Instances Galore:**
 Setting up three EC2 instances for Jenkins server, SonarQube server, and Docker server to build a resilient infrastructure.
+
+![aws ec2](https://github.com/mihirkanani/Jenkins-CI-CD-Pipeline---SonarQube-Docker-GitHub-Webhooks-on-AWS/assets/70439380/dbec757a-f68a-4fea-99b9-6a342a9311b3)
+
+
 
 3️⃣ **GitHub + Jenkins Webhook Magic:**
 Integrating GitHub Webhooks with the Jenkins server for seamless automation triggered by code pushes.
